@@ -27,7 +27,6 @@ Different dataset and prediction need different models. In this research, our go
 
 **What to do next**
 1. Do tests on more dataset with more models.   
-s
 
 ## Related Work
 Ward, L., Agrawal, A., Choudhary, A., & Wolverton, C. (2016). A general-purpose machine learning framework for predicting properties of inorganic materials. npj Computational Materials, 2, 16028.
