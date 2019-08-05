@@ -1,2 +1,0 @@
-,['DecisionTree_Regressor'],['RotationForest_Regressor'],['RandomSubspace_Regressor'],['LinearRegression_Regressor'],Best_Model
-citrine_thermal_conductivity/k_expt,1.1203682610136534,1.2663538341254992,0.8314393709435598,20.512034473837517,['RandomSubspace_Regressor']

@@ -1,8 +1,0 @@
-,n_features_per_subset,max_features,MAE
-boltztrap_mp/pf_n,2,13,0.22133038937027202
-boltztrap_mp/pf_p,8,13,0.19351504979216907
-boltztrap_mp/s_n,1,11,0.052880020688250234
-boltztrap_mp/s_p,3,10,0.040054389424191955
-boltztrap_mp/m_n,2,11,1.1861048119030784
-boltztrap_mp/m_p,8,11,1.1518951398454453
-citrine_thermal_conductivity/k_expt,1,10,1.2663538341254992
