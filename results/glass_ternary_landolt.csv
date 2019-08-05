@@ -1,0 +1,2 @@
+,['DecisionTree_Classifier'],['RotationForest_Classifier'],['RandomSubspace_Classifier'],Best_Model
+glass_ternary_landolt/gfa,0.8477362190787705,0.8883886977330331,0.8823679962618409,['RotationForest_Classifier']
